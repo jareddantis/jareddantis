@@ -3,14 +3,15 @@
 🎓 studying computer science at UP Diliman
 
 <details>
-  <summary>🛠 a handful of web technologies and other languages (click to expand)</summary>
+  <summary>🛠 a handful of technologies and languages (click to expand)</summary>
 
-- HTML5 (vanilla and Bootstrap)  
-- some Vue 2 + Vuetify (learning Vue 3)
-- some PHP & SQL
+- HTML5 (vanilla, Bootstrap, Tailwind)
+- Vue (learning v3, along with Nuxt)
+- Python 3 (discord.py/nextcord, Flask, Django)
+- MySQL
+- Docker
+- Unix (Bash) scripting
+- some C/C++
 - Adobe Ps/Lr/Ai (learning Pr, Ae)
 - Figma
-- Python 3 (discord.py, Flask)
-- some C/C++
-- Unix (Bash) scripting
 </details>
