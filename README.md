@@ -1,6 +1,6 @@
-👋 graphic & web designer, photographer, avid sleeper
+👋 graphic designer, web developer, aspiring photographer
 
-🎓 studying computer science at UP Diliman
+🎓 computer science undergraduate at UP Diliman
 
 <details>
   <summary>🛠 a handful of technologies and languages (click to expand)</summary>
