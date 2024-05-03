@@ -1,17 +1,17 @@
-👋 graphic designer, web developer, aspiring photographer
+👋 web developer, aspiring photographer
 
-🎓 computer science undergraduate at UP Diliman
+🎓 B.Sc. in Computer Science, University of the Philippines Diliman
 
 <details>
   <summary>🛠 a handful of technologies and languages (click to expand)</summary>
 
 - HTML5 (vanilla, Bootstrap, Tailwind)
-- Vue (learning v3, along with Nuxt)
-- Python 3 (discord.py/nextcord, Flask, Django)
-- MySQL
-- Docker
+- React, Next
+- Vue 2, some Vue 3, Nuxt
+- Python 3 (discord.py/nextcord, Flask, Django, FastAPI)
+- SQL (SQLAlchemy, Alembic)
+- Docker, Docker Compose
 - Unix (Bash) scripting
-- some C/C++
-- Adobe Ps/Lr/Ai (learning Pr, Ae)
-- Figma
+
+full list on my [website](https://dantis.me) and [CV](https://dantis.me/jareddantis/cv.pdf) :-)
 </details>
